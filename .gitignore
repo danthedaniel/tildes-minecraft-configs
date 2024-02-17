@@ -1,0 +1,40 @@
+.console_history
+.vscode/
+backups/
+bundler/
+cache/
+crash-reports/
+debug/
+libraries/
+logs/
+timings/
+versions/
+
+# World folders
+*.dat
+*.dat_old
+*.mca
+*.zip
+*/advancements/*.json
+*/playerdata/*.json
+*/stats/*.json
+*.lock
+
+# Hidden config files
+server.properties
+usercache.json
+version_history.json
+whitelist.json
+banned-ips.json
+banned-players.json
+
+# Binary files
+*.sqlitedb
+*.sqlite
+*.sqlite3
+*.db
+
+# Plugin files
+.archive-unpack/
+*.schem
+*/WorldEdit/sessions/*.json

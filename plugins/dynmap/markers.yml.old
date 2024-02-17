@@ -1,0 +1,388 @@
+%YAML 1.1
+---
+isSafe: true
+icons: {
+    }
+sets:
+    Train Stations:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Train Stations
+        markers:
+            marker_5:
+                world: world
+                markup: false
+                x: 400.0
+                icon: construction
+                y: 43.0
+                z: 378.0
+                label: Seagrass Station | C-Line
+            marker_6:
+                world: world
+                markup: false
+                x: 410.0
+                icon: construction
+                y: 44.0
+                z: -120.0
+                label: TildeTown West Station | B/C-Line
+            marker_7:
+                world: world
+                markup: false
+                x: 316.0
+                icon: construction
+                y: 66.0
+                z: -552.0
+                label: Metal Maker Station | C-Line
+            marker_8:
+                world: world
+                markup: false
+                x: 3225.0
+                icon: construction
+                y: 64.0
+                z: -52.0
+                label: Fishy Mushroom Station | B-Line
+            marker_9:
+                world: world
+                markup: false
+                x: 395.0
+                icon: construction
+                y: 67.0
+                z: -1347.0
+                label: Snowy Beach Station | C-Line
+            marker_12:
+                world: world
+                markup: false
+                x: 850.0
+                icon: construction
+                y: 70.0
+                z: -860.0
+                label: Castle Frye Station | S-Line
+            marker_13:
+                world: world
+                markup: false
+                x: 168.0
+                icon: construction
+                y: 69.0
+                z: -2181.0
+                label: Rebel &amp; Riot Station | C-Line
+            marker_10:
+                world: world
+                markup: false
+                x: -279.0
+                icon: construction
+                y: 63.0
+                z: -1341.0
+                label: Charmed Station | C-Line
+            marker_11:
+                world: world
+                markup: false
+                x: 1878.0
+                icon: construction
+                y: 137.0
+                z: -123.0
+                label: Deep Peaks Station | B-Line
+            marker_1:
+                world: world
+                markup: false
+                x: 1289.0
+                icon: construction
+                y: 65.0
+                z: -126.0
+                label: Geometry Station | B-Line
+            marker_2:
+                world: world
+                markup: false
+                x: 742.0
+                icon: construction
+                y: 66.0
+                z: -135.0
+                label: TildeTown Central Station | B/S-Line
+            marker_20:
+                world: world
+                markup: false
+                x: 876.0
+                icon: construction
+                y: 70.0
+                z: 69.0
+                label: Arena Station | S-Line
+            marker_3:
+                world: world
+                markup: false
+                x: 1608.0
+                icon: construction
+                y: 105.0
+                z: -93.0
+                label: Darkcliff Station | B-Line
+            marker_4:
+                world: world
+                markup: false
+                x: 27.0
+                icon: construction
+                y: 65.0
+                z: -38.0
+                label: Spawn Station | B-Line
+            marker_18:
+                world: world
+                markup: false
+                x: 1513.0
+                icon: construction
+                y: 71.0
+                z: 1200.0
+                label: Temple Station | S-Line
+            marker_19:
+                world: world
+                markup: false
+                x: 1005.0
+                icon: construction
+                y: 68.0
+                z: 1200.0
+                label: Jungle Station | S-Line
+            marker_16:
+                world: world
+                markup: false
+                x: 2497.0
+                icon: construction
+                y: 78.0
+                z: 1197.0
+                label: Badlands Station | S-Line
+            marker_17:
+                world: world
+                markup: false
+                x: 2008.0
+                icon: construction
+                y: 64.0
+                z: 1197.0
+                label: Desert Station | S-Line
+        lines: {
+            }
+        layerprio: 0
+    Farms:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Farms
+        markers:
+            marker_5:
+                world: world
+                markup: false
+                x: -429.0
+                icon: factory
+                y: 77.0
+                z: -591.0
+                label: Glow Squid Farm
+            marker_6:
+                world: world
+                markup: false
+                x: -283.0
+                icon: skull
+                y: 86.0
+                z: -1357.0
+                label: Witch Farm
+            marker_7:
+                world: world_nether
+                markup: false
+                x: 348.0
+                icon: skull
+                y: 45.0
+                z: 987.0
+                label: Wither Skull Farm
+            marker_8:
+                world: world
+                markup: false
+                x: 809.0
+                icon: tree
+                y: 64.0
+                z: 82.0
+                label: Tree Farm
+            marker_9:
+                world: world
+                markup: false
+                x: 3232.0
+                icon: goldmedal
+                y: 161.0
+                z: -64.0
+                label: Guardian XP Farm
+            marker_12:
+                world: world_nether
+                markup: false
+                x: -14.0
+                icon: bank
+                y: 131.0
+                z: -54.0
+                label: Gold Farm and Piglin Bartering (Nether Roof)
+            marker_13:
+                world: world_the_end
+                markup: false
+                x: 382.0
+                icon: goldmedal
+                y: 98.0
+                z: 3512.0
+                label: Shulker Farm
+            marker_10:
+                world: world
+                markup: false
+                x: 530.0
+                icon: dog
+                y: 69.0
+                z: -343.0
+                label: Cat Spawner
+            marker_11:
+                world: world_the_end
+                markup: false
+                x: -279.0
+                icon: skull
+                y: 2.0
+                z: 9.0
+                label: Enderman XP Farm
+            marker_1:
+                world: world
+                markup: false
+                x: 845.0
+                icon: star
+                y: 74.0
+                z: -138.0
+                label: Wool Farm
+            marker_2:
+                world: world
+                markup: false
+                x: 861.0
+                icon: star
+                y: 79.0
+                z: -122.0
+                label: Bee Farm
+            marker_3:
+                world: world
+                markup: false
+                x: -83.0
+                icon: factory
+                y: 195.0
+                z: -2288.0
+                label: Gunpowder Farm
+            marker_4:
+                world: world
+                markup: false
+                x: -152.0
+                icon: factory
+                y: 71.0
+                z: -772.0
+                label: Squid Farm
+            marker_18:
+                world: world
+                markup: false
+                x: 1050.0
+                icon: tree
+                y: 64.0
+                z: -27.0
+                label: Bonemeal Farm
+            marker_19:
+                world: world
+                markup: false
+                x: 841.0
+                icon: tree
+                y: 64.0
+                z: 90.0
+                label: Nether Wart/Sprout Farm
+            marker_16:
+                world: world
+                markup: false
+                x: 686.0
+                icon: tree
+                y: 64.0
+                z: 134.0
+                label: Mangrove Farm
+            marker_17:
+                world: world
+                markup: false
+                x: 157.0
+                icon: skull
+                y: 64.0
+                z: -2194.0
+                label: Raid Farm
+            marker_14:
+                world: world
+                markup: false
+                x: -289.0
+                icon: flower
+                y: 221.0
+                z: 2695.0
+                label: Flower Farm
+            marker_15:
+                world: world_the_end
+                markup: false
+                x: 1317.0
+                icon: flower
+                y: 189.0
+                z: 1601.0
+                label: Wither Rose Farm
+        lines: {
+            }
+        layerprio: 0
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            marker_11:
+                world: world
+                markup: false
+                x: 907.0
+                icon: house
+                y: 66.0
+                z: -48.0
+                label: Villager Trading Hall
+            marker_1:
+                world: world
+                markup: false
+                x: 704.0
+                icon: default
+                y: 66.0
+                z: -220.0
+                label: TildeTown
+            marker_2:
+                world: world
+                markup: false
+                x: 751.0
+                icon: diamond
+                y: 65.0
+                z: -169.0
+                label: Mining Depot
+            marker_3:
+                world: world
+                markup: false
+                x: -72.0
+                icon: dog
+                y: 64.0
+                z: -254.0
+                label: Zoo
+            marker_8:
+                world: world_nether
+                markup: false
+                x: 89.0
+                icon: default
+                y: 63.0
+                z: -34.0
+                label: Nether Hub
+            marker_15:
+                world: world
+                markup: false
+                x: 5927.0
+                icon: drink
+                y: 66.0
+                z: -2963.0
+                label: Tildes Country Club &amp; Golf Course
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

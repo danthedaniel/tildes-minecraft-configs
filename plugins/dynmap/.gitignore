@@ -1,0 +1,9 @@
+web/
+texturepacks/
+renderdata/
+import/
+export/
+colorschemes/
+webauth.txt
+*.pending
+ids-by-ip.txt
