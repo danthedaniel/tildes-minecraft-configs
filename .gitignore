@@ -1,24 +1,19 @@
-.console_history
-.vscode/
-backups/
-bundler/
-cache/
-crash-reports/
-debug/
-libraries/
+/.console_history
+/.vscode/
+/backups/
+/bundler/
+/crash-reports/
+/debug/
+/libraries/
+/timings/
+/versions/
 logs/
-timings/
-versions/
+cache/
 
 # World folders
-*.dat
-*.dat_old
-*.mca
-*.zip
-*/advancements/*.json
-*/playerdata/*.json
-*/stats/*.json
-*.lock
+/world/
+/world_nether/
+/world_the_end/
 
 # Hidden config files
 server.properties
